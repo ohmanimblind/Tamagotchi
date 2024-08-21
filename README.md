@@ -41,8 +41,8 @@ In order to interact with the passive buzzer, use of a timer was needed, which o
 https://youtu.be/HBm2YKibeLA?si=WfXIPw5MsBL0YyMj
 
 It wasn't the direct frequency, but instead the frequency needed was used in this calculation, for the value that needed to be written to ICR1:
-[Frequency Table Used](Resources/Passive_Buzzer_Frq.png)
-[Equation for Calculations (Fpwm is the desired freq. and TOP is the value we need to write)](Resources/image.png)
+![Frequency Table Used!](Resources/Passive_Buzzer_Frq.png)
+![Equation for Calculations (Fpwm is the desired freq. and TOP is the value we need to write)!](Resources/image.png)
 
 # Interaction
 The user can interact with the tamagotchi as follows:
@@ -69,11 +69,12 @@ The number of games won intially affect what pet is hatched.
 
 # Summary
 This project was truly a passion project for me, which I am so proud of myself for completing. There's so much about the project I can only explain in words, so I would love if you tuned into the short video I made showcasing and telling my story. In the future, I hope to make more permament connections, and truly make this a portable pet. Below Are images of other resources / items used.
-[Misa Sprite](Sprites/misa.png)
-[Kiara Sprite](Sprites/Kiara)
-[Alice Sprite](Sprites/Alice.png)
-[Apple](Sprites/apple.png)
-[Cake](Sprites/cake.png)
-[LCD Screen Interface](Resources/St7735_interface.png)
-[SPI Pin Interface](Resources/SPI_Pins.png)
-
+![Misa Sprite!](Sprites/misa.png)
+![Kiara Sprite!](Sprites/Kiara)
+![Alice Sprite!](Sprites/Alice.png)
+![Apple!](Sprites/apple.png)
+![Cake!](Sprites/cake.png)
+![LCD Screen Interface!](Resources/St7735_interface.png)
+![SPI Pin Interface](Resources/SPI_Pins.png)
+![Wiring Diagram!](Resources/wiring_diagram_tamagotchi.png)
+![Physical Photo!](Resources/tamagotchi-Alice.png)
