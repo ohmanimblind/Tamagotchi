@@ -16,10 +16,10 @@ In order to recieve full credit for the project, requirments were needed, mainly
   Needless to say, this was a huge undertaking to attempt to implement all of this in such a short time frame, but with a little determination (and grade on the line) , I'm proud to say I left not one goal unchecked.
 
 # Components
-*Hi-LetGo SY7735 LCD Screen 128 * 128
-*Passive Buzzer
-*5 Buttons
-*ELEEGO UNO Microcontroller
+* Hi-LetGo SY7735 LCD Screen 128 * 128
+* Passive Buzzer
+* 5 Buttons
+* ELEEGO UNO Microcontroller
 
 
 
