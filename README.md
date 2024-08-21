@@ -48,16 +48,16 @@ It wasn't the direct frequency, but instead the frequency needed was used in thi
 
 # Interaction
 The user can interact with the tamagotchi as follows:
-*Initally, the pet is in the form of an egg 
+* Initally, the pet is in the form of an egg 
   *Using B2, the middle button, the user can switch what pet is currently selected, indicated by a number in the lower left screen
-*The user can use B1, the left button, to enter the select menu, where they can select two actions, feed or play
-  *upon choosing feed, the user must choose the correct food option to feed the pet, which can be found by checking on the pet status
-  *upon choosing game, the player can choose what game to play, using left and right to select. They can confirm with B2
-*In the main menu, the user can use B3, right, to see the pet status
-  *There are indicators for angry, sad, and happy, as well as the desired food being displayed
-*B4, next to the screen can be used to toggle the music
-*B5 can be used to reset the CURRENT Pet
-*After a set time, the egg will hatch for both pets
+* The user can use B1, the left button, to enter the select menu, where they can select two actions, feed or play
+  * upon choosing feed, the user must choose the correct food option to feed the pet, which can be found by checking on the pet status
+  * upon choosing game, the player can choose what game to play, using left and right to select. They can confirm with B2
+* In the main menu, the user can use B3, right, to see the pet status
+  * There are indicators for angry, sad, and happy, as well as the desired food being displayed
+* B4, next to the screen can be used to toggle the music
+* B5 can be used to reset the CURRENT Pet
+* After a set time, the egg will hatch for both pets
 
 # Games
 The Tamagotchi has 3 games:
