@@ -41,6 +41,8 @@ In order to interact with the passive buzzer, use of a timer was needed, which o
 https://youtu.be/HBm2YKibeLA?si=WfXIPw5MsBL0YyMj
 
 It wasn't the direct frequency, but instead the frequency needed was used in this calculation, for the value that needed to be written to ICR1:
+
+
 ![Frequency Table Used!](Resources/Passive_Buzzer_Frq.png)
 ![Equation for Calculations ,Fpwm is the desired freq. and TOP is the value we need to write!](Resources/image.png)
 
