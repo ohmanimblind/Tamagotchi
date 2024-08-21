@@ -72,8 +72,8 @@ The number of games won intially affect what pet is hatched.
 # Summary
 This project was truly a passion project for me, which I am so proud of myself for completing. There's so much about the project I can only explain in words, so I would love if you tuned into the short video I made showcasing and telling my story. In the future, I hope to make more permament connections, and truly make this a portable pet. Below Are images of other resources / items used.
 ![Misa Sprite!](Sprites/misa.png)
-![Kiara Sprite!](Sprites/Kiara.png)
-![Alice Sprite!](Sprites/Alice.png)
+![Kiara Sprite!](Sprites/kiara.png)
+![Alice Sprite!](Sprites/alice.png)
 ![Apple!](Sprites/apple.png)
 ![Cake!](Sprites/cake.png)
 ![LCD Screen Interface!](Resources/St7735_interface.png)
@@ -82,4 +82,4 @@ This project was truly a passion project for me, which I am so proud of myself f
 
 ![Wiring Diagram!](Resources/wiring_diagram_tamagotchi.png)
 
-![Physical Photo!](Resources/tamagotchi-Alice.png)
+![Physical Photo!](Resources/Tamagotchi-Alice.png)
