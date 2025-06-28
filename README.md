@@ -1,4 +1,7 @@
 # Tamagotchi
+
+[Youtube Video Link](https://youtu.be/w7rN4-upqtw)
+
 Making a Tamagotchi was always a big goal of mine as an aspiring student in CS. After completing my first data structures class, and knowing personal projects would teach me alot, I wanted my first project to be something I truly found fun, and interesting, that being a Tamagotchi. However, at the time, I had no experience with peripherals, embedded systems, etc., so it wasn't until I needed to complete this project for a grade that I really got motivated. So, in about 95 hours over the course of 3 weeks, I was able to make my dream project that I always wanted to as an aspiring freshman. Not only did this experience teach me so much, it also taught me just what I was capable off, where a project I use to believe waas so far outside my skillset was fully realized in front of me.
 
 # Goals
